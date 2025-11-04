@@ -13,9 +13,11 @@ Follow these steps in every new docs repository.
   - [ ] Add DNS config in AWS Route 53
   - [ ] Add custom domain in GitHub
   - [ ] Enable "Enforce HTTPS"
-- [ ] Create a pull request with README updates
+- [ ] Create a pull request
   - [ ] Update the title in the README
   - [ ] Update the URL in the README
+  - [ ] Update `astro.config.mjs` with appropriate configuration
+  - [ ] Add any initial content
   - [ ] Remove the "New Project Checklist" from the README
 - [ ] Merge the pull request
 - [ ] Verify that deployment is successful
