@@ -1,6 +1,6 @@
 # Docs Template
 
-This project is hosted at https://something.mrs-electronics.dev
+This project is hosted at https://replace-me.mrs-electronics.dev
 
 ## New Project Checklist
 
