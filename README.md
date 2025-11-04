@@ -12,7 +12,6 @@ Follow these steps in every new docs repository.
   - [ ] "GitHub Actions" as source
   - [ ] Add DNS config in AWS Route 53
   - [ ] Add custom domain in GitHub
-  - [ ] Enable "Enforce HTTPS"
 - [ ] Create a pull request
   - [ ] Update the title in the README
   - [ ] Update the URL in the README
@@ -23,6 +22,7 @@ Follow these steps in every new docs repository.
   - [ ] Remove the "New Project Checklist" from the README
 - [ ] Merge the pull request
 - [ ] Verify that deployment is successful
+- [ ] Enable "Enforce HTTPS" in the GitHub pages settings (it does not seem you can do it until you have a deployment)
 
 ## Project Structure
 
