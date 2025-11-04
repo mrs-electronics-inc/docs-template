@@ -4,8 +4,10 @@ This project is hosted at https://something.mrs-electronics.dev
 
 ## New Project Checklist
 
-- [ ] Use this template to create new repo - https://github.com/new?template_name=docs-template&template_owner=mrs-electronics-inc
-- [ ] Configure new repo with correct settings - https://hub.mrs-electronics.dev/project-management/github-set-up/
+Follow these steps in every new docs repository.
+
+- [ ] Use this template to create new repo - [link](https://github.com/new?template_name=docs-template&template_owner=mrs-electronics-inc)
+- [ ] Configure new repo with correct settings - [docs](https://hub.mrs-electronics.dev/project-management/github-set-up/)
 - [ ] Configure GitHub Pages
   - [ ] "GitHub Actions" as source
   - [ ] Add DNS config in AWS Route 53
