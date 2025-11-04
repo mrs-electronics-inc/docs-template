@@ -1,6 +1,22 @@
 # Docs Template
 
-This project is hosted at ADD DEPLOYED URL HERE
+This project is hosted at https://something.mrs-electronics.dev
+
+## New Project Checklist
+
+- [ ] Use this template to create new repo - https://github.com/new?template_name=docs-template&template_owner=mrs-electronics-inc
+- [ ] Configure new repo with correct settings - https://hub.mrs-electronics.dev/project-management/github-set-up/
+- [ ] Configure GitHub Pages
+  - [ ] "GitHub Actions" as source
+  - [ ] Add DNS config in AWS Route 53
+  - [ ] Add custom domain in GitHub
+  - [ ] Enable "Enforce HTTPS"
+- [ ] Create a pull request with README updates
+  - [ ] Update the title in the README
+  - [ ] Update the URL in the README
+  - [ ] Remove the "New Project Checklist" from the README
+- [ ] Merge the pull request
+- [ ] Verify that deployment is successful
 
 ## Project Structure
 
