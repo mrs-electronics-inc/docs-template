@@ -18,6 +18,7 @@ Follow these steps in every new docs repository.
   - [ ] Update `astro.config.mjs` with appropriate configuration
   - [ ] Update `src/content/docs/index.mdx` with appropriate information
   - [ ] Update `public/site.webmanifest` with appropriate information
+  - [ ] Update `package.json` with project name
   - [ ] Add any initial content
   - [ ] Remove the "New Project Checklist" from the README
 - [ ] Merge the pull request
