@@ -1,4 +1,5 @@
 {
+  "name": "Docs Template",
   "private": true,
   "type": "module",
   "scripts": {
