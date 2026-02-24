@@ -8,6 +8,7 @@ Follow these steps in every new docs repository.
 
 - [ ] Use this template to create new repo - [link](https://github.com/new?template_name=docs-template&template_owner=mrs-electronics-inc)
 - [ ] Configure new repo with correct settings - [docs](https://hub.mrs-electronics.dev/project-management/github-set-up/)
+- [ ] Install https://github.com/mrs-electronics-inc/agent-skills
 - [ ] Configure GitHub Pages
   - [ ] "GitHub Actions" as source
   - [ ] Add DNS config in AWS Route 53
