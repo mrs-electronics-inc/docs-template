@@ -2,19 +2,6 @@ name: Lint & Format Check
 
 on:
   pull_request:
-    paths:
-      - "**.js"
-      - "**.mjs"
-      - "**.ts"
-      - "**.astro"
-      - "**.md"
-      - "**.mdx"
-      - "**.json"
-      - "**.yml"
-      - "**.yaml"
-      - "eslint.config.mjs"
-      - ".prettierignore"
-      - ".github/workflows/lint-format-check.yaml"
 
 jobs:
   quality_gates:
