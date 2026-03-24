@@ -18,6 +18,6 @@ lint:
 format:
     npm run format
 
-# Run in development environment.
+# Run docs locally.
 run:
     npm run dev
